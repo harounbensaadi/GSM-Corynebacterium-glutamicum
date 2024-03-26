@@ -1,3 +1,4 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/harounbensaadi/GSM-Corynebacterium-glutamicum/HEAD)
 ### Assignment - Computer-aided Cell Factory Design (27410 ) 
 # Application of Genome Scale Modeling for L-lysine production through _Corynebacterium glutamicum_
 Course responsible: Dr. Igor Marín de Mas
