@@ -31,3 +31,6 @@ The main Jupyter Notebooks provided for this assignement are:
 Additionaly, a requirements.txt file was automatically generated and it lists the main Python packages essential for running this code.
 
 It should be noted that a detailed explanation of performed analysis can be found in **report.ipynb**
+
+
+![alt text](image.png)
