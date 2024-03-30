@@ -33,4 +33,4 @@ Additionaly, a requirements.txt file was automatically generated and it lists th
 It should be noted that a detailed explanation of performed analysis can be found in **report.ipynb**
 
 
-![alt text](image.png)
+![alt text](README_IMAGES/image.png)
